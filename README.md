@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Y-PHYO
-- 👀 I’m interested in robotic, microcontroller, image capturing and integrated circuits!!!!!!!!!!!!!
+- 👀 I’m interested signal processing,communication system and integrated circuits!!!!!!!!!!!!!
 - 🌱 I’m currently learning C.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
